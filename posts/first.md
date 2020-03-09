@@ -5,8 +5,7 @@ author: Geoffrey
 title: 今日小雨
 ---
 
-<iframe src="https://open.spotify.com/embed/track/31RIphTQ9y4zStkH5xRWgW" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<iframe src="https://open.spotify.com/embed/track/31RIphTQ9y4zStkH5xRWgW" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 
 
 给自己定的计划就是昨天写一篇blog，但是拖到了今天才写。
