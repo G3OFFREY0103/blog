@@ -14,4 +14,4 @@ That's it。
 ![blackpink](asset/img/下载.jpg)
 BlackPink is the best
 
-[back](./)                                                                               [next](./posts/first.html)
+[back](./)                             <p align="right" >[next](./posts/first.html)</p> [next](./posts/first.html)
