@@ -7,7 +7,7 @@ title: 今日小雨
 
 <iframe src="https://open.spotify.com/embed/track/31RIphTQ9y4zStkH5xRWgW" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 
-
+---
 给自己定的计划就是昨天写一篇blog，但是拖到了今天才写。
 
 其中有一部分原因是我没有什么想说的了。自我诊断我应该是个敏感的人，内心的想法极其丰富，有时候我只是在那坐着，心思早飞到不知道哪里去了。我会想前几天看到的旅游地太棒了，要不要去，还是把钱留着更新我的装备。我会想还有多少任务还没有完成想完就去，或者是先放一放看一会美剧。
