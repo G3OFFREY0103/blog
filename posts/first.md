@@ -6,4 +6,4 @@ layout: default
 
 <iframe src="https://open.spotify.com/embed/track/31RIphTQ9y4zStkH5xRWgW" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-[back](./blog/index.html)
+[back](./blog)
